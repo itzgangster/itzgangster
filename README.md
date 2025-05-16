@@ -8,7 +8,7 @@ I'm **Kirito**, a passionate self-taught developer from Bangladesh. I enjoy turn
 - 🌱 I’m currently learning Rust, Astro, Next.js, and GraphQL
 - 👯 I’m looking to collaborate on open-source projects and developer tools
 - 💬 Ask me about anything related to JavaScript or backend automation
-- 📫 How to reach me: [Twitter](https://twitter.com/itzgangster) or [Discord](https://discord.com/users/223237472195182592)
+- 📫 How to reach me: [Twitter](https://twitter.com/itzzgangster) or [Discord](https://discord.com/users/223237472195182592)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love retro tech and anime-themed UI design
 
