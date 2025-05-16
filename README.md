@@ -90,22 +90,22 @@ I'm **Kirito**, a passionate self-taught developer from Bangladesh. I enjoy turn
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirito-ly&theme=radical&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzgangster&theme=radical&layout=compact" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kirito-ly&theme=radical&show_icons=true&count_private=true&hide=issues" />
+      <img src="https://github-readme-stats.vercel.app/api?username=itzgangster&theme=radical&show_icons=true&count_private=true&hide=issues" />
     </td>
   </tr>
 </table>
 
 ## 🚀 My Projects
 
-<a href="https://github.com/kirito-ly/LYKS-GUI-V.0-b-ta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirito-ly&theme=react&repo=LYKS-GUI-V.0-b-ta" />
+<a href="https://github.com/itzgangster/LYKS-GUI-V.0-b-ta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzgangster&theme=react&repo=LYKS-GUI-V.0-b-ta" />
 </a>
-<a href="https://github.com/kirito-ly/Owl-Grabber">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirito-ly&theme=react&repo=Owl-Grabber" />
+<a href="https://github.com/itzgangster/Owl-Grabber">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzgangster&theme=react&repo=Owl-Grabber" />
 </a>
-<a href="https://github.com/kirito-ly/Owl-Grabber-Main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirito-ly&theme=react&repo=Owl-Grabber-Main" />
+<a href="https://github.com/itzgangster/Owl-Grabber-Main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzgangster&theme=react&repo=Owl-Grabber-Main" />
 </a>
